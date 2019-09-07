@@ -1,0 +1,103 @@
+Training batch 0 
+Count on 446 | Count off 554  Percent on 44.6 % 
+dloss=0 1%loss=0.0010037718558311463 
+0 Loss + metrics [0.10037718558311462, 0.853] , lr = 0.375
+['loss', 'acc']
+Training time 2781250000 = 2.78125s 
+Training batch 1 
+Count on 437 | Count off 563  Percent on 43.7 % 
+dloss=-0.8996228144168854 1%loss=0.00042338031567633154 
+1 Loss + metrics [0.042338031567633154, 0.95] , lr = 0.28125
+['loss', 'acc']
+Training time 1859375000 = 1.859375s 
+Training batch 2 
+Count on 439 | Count off 561  Percent on 43.9 % 
+dloss=-0.058039154015481466 1%loss=0.0003447535026818514 
+2 Loss + metrics [0.034475350268185136, 0.954] , lr = 0.2109375
+['loss', 'acc']
+Training time 1765625000 = 1.765625s 
+Training batch 3 
+Count on 467 | Count off 533  Percent on 46.7 % 
+dloss=-0.007862681299448018 1%loss=0.0002971449279785156 
+0 Loss + metrics [0.02971449279785156, 0.964] , lr = 0.158203125
+['loss', 'acc']
+Training time 1671875000 = 1.671875s 
+Training batch 4 
+Count on 432 | Count off 568  Percent on 43.2 % 
+dloss=-0.0047608574703335745 1%loss=0.00039683849811553954 
+1 Loss + metrics [0.039683849811553956, 0.942] , lr = 0.11865234375
+['loss', 'acc']
+Training time 1859375000 = 1.859375s 
+Training batch 5 
+Count on 478 | Count off 522  Percent on 47.8 % 
+dloss=0.009969357013702395 1%loss=0.0002769852846674621 
+0 Loss + metrics [0.02769852846674621, 0.968] , lr = 0.375
+['loss', 'acc']
+Training time 1765625000 = 1.765625s 
+Training batch 6 
+Count on 480 | Count off 520  Percent on 48.0 % 
+dloss=-0.011985321344807745 1%loss=0.00029847237445414064 
+1 Loss + metrics [0.029847237445414065, 0.967] , lr = 0.28125
+['loss', 'acc']
+Training time 1968750000 = 1.96875s 
+Training batch 7 
+Count on 437 | Count off 563  Percent on 43.7 % 
+dloss=0.0021487089786678543 1%loss=0.0002793820581585169 
+0 Loss + metrics [0.02793820581585169, 0.963] , lr = 0.375
+['loss', 'acc']
+Training time 1718750000 = 1.71875s 
+Training batch 8 
+Count on 434 | Count off 566  Percent on 43.4 % 
+dloss=-0.0019090316295623765 1%loss=0.0003664432471990586 
+1 Loss + metrics [0.036644324719905856, 0.957] , lr = 0.28125
+['loss', 'acc']
+Training time 1796875000 = 1.796875s 
+Training batch 9 
+Count on 449 | Count off 551  Percent on 44.9 % 
+dloss=0.008706118904054167 1%loss=0.0002547814916074276 
+0 Loss + metrics [0.02547814916074276, 0.968] , lr = 0.375
+['loss', 'acc']
+Training time 1656250000 = 1.65625s 
+Training batch 10 
+Count on 439 | Count off 561  Percent on 43.9 % 
+dloss=-0.011166175559163095 1%loss=0.0002072978783212602 
+1 Loss + metrics [0.02072978783212602, 0.975] , lr = 0.28125
+['loss', 'acc']
+Training time 1718750000 = 1.71875s 
+Training batch 11 
+Count on 470 | Count off 530  Percent on 47.0 % 
+dloss=-0.004748361328616741 1%loss=0.0002195602928288281 
+2 Loss + metrics [0.02195602928288281, 0.977] , lr = 0.2109375
+['loss', 'acc']
+Training time 1828125000 = 1.828125s 
+Training batch 12 
+Count on 431 | Count off 569  Percent on 43.1 % 
+dloss=0.001226241450756789 1%loss=0.00020447906497865918 
+0 Loss + metrics [0.020447906497865917, 0.979] , lr = 0.375
+['loss', 'acc']
+Training time 1687500000 = 1.6875s 
+Training batch 13 
+Count on 471 | Count off 529  Percent on 47.099999999999994 % 
+dloss=-0.0015081227850168924 1%loss=0.00023655899955891073 
+1 Loss + metrics [0.023655899955891072, 0.975] , lr = 0.28125
+['loss', 'acc']
+Training time 1546875000 = 1.546875s 
+Training batch 14 
+Count on 433 | Count off 567  Percent on 43.3 % 
+dloss=0.0032079934580251553 1%loss=0.00016712735114619138 
+0 Loss + metrics [0.016712735114619136, 0.982] , lr = 0.375
+['loss', 'acc']
+Training time 1703125000 = 1.703125s 
+Training batch 15 
+Count on 447 | Count off 553  Percent on 44.7 % 
+dloss=-0.006943164841271936 1%loss=0.0002122563744429499 
+1 Loss + metrics [0.02122563744429499, 0.977] , lr = 0.28125
+['loss', 'acc']
+Training time 1781250000 = 1.78125s 
+Training batch 16 
+Count on 453 | Count off 547  Percent on 45.300000000000004 % 
+dloss=0.004512902329675852 1%loss=2.8934438364813102e-05 
+0 Loss + metrics [0.0028934438364813103, 1.0] , lr = 0.375
+['loss', 'acc']
+Training time 1546875000 = 1.546875s 
+Toatal training time 31265625000 = 31.265625s for 17 training sets 

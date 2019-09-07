@@ -1,0 +1,4 @@
+Count on 428 | Count off 572  Percent on 42.8 % 
+Predict time 31250000 = 0.03125s
+Wrong [1.         0.41666667 1.        ] true_val 1 != [0.434473] predict
+Missed 1 in 1000 = 0.1% 

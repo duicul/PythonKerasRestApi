@@ -1,0 +1,13 @@
+Training batch 0 
+Count on 4544 | Count off 5456  Percent on 45.440000000000005 % 
+dloss=0 1%loss=0.00019718287645280363 
+0 Loss + metrics [0.01971828764528036, 0.9797] , lr = 0.375
+['loss', 'acc']
+Training time 17250000000 = 17.25s 
+Training batch 1 
+Count on 4441 | Count off 5559  Percent on 44.41 % 
+dloss=-0.9802817123547196 1%loss=1.3804844192782182e-06 
+1 Loss + metrics [0.00013804844192782183, 1.0] , lr = 0.28125
+['loss', 'acc']
+Training time 17984375000 = 17.984375s 
+Toatal training time 35968750000 = 35.96875s for 2 training sets 
